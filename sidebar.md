@@ -1,0 +1,155 @@
+* <font color=red>**Linux**</font>
+  * <font color=blue>Ready to work</font>
+  * [ADB/Linux Basic Instructions](Android/basicom.md)
+  * [Git tool usage](Android/git.md)
+  * <font color=blue>Basic Components</font>
+  * [Activity](Android/activity.md)
+  * [Broadcast](Android/broadcast.md)
+  * [Content Provider](Android/contpro.md)
+  * [Service](Android/service.md)
+  * [Fragment](Android/fg.md)
+  * [WorkManager](Android/wm.md)
+  * <font color=blue>Application Architecture</font>
+  * [ViewModel](Android/vm.md)
+  * [LiveData](Android/ld.md)
+  * [DataBinding](Android/db.md)
+  * [AndroidViewModel](Android/avm.md)
+  * [ViewBinding](Android/vb.md)
+  * [MVI Architecture](Android/mvi.md)
+  * <font color=blue>local data storage</font>
+  * [Shared Preferences](Android/sp.md)
+  * [Room Database](Android/room.md)
+  * [IO operation](Android/io.md)
+  * <font color=blue>serialization</font>
+  * [Serializable](Android/serial.md)
+  * [Parcelable](Android/parcel.md)
+  * [JSON](Android/json.md)
+  * [XML](Android/xml.md)
+  * <font color=blue>Network communication</font>
+  * [Webview](Android/wv.md)
+  * [OkHttp](Android/oh.md)
+  * [Retrofit](Android/retr.md)
+  * [Volley](Android/volley.md)
+  * <font color=blue>Multimedia</font>
+  * [Camera & Photo](Android/photo.md)
+  * [Audio Video](Android/msc.md)
+  * [Bluetooth](Android/bt.md)
+  * <font color=blue>UI development</font>
+  * [Basic layout](Android/lo.md)
+  * [custom control](Android/controller.md)
+  * [custom view](Android/customview.md)
+  * [Jetpack Compose](Android/jc.md)
+  * [Java GUI development](Android/gui.md)
+  * <font color=blue>Compile and debug</font>
+  * [Gradle compilation](Android/gradle.md)
+  * [Application debugging](Android/debug.md)
+  * [Unit Test](Android/unit.md)
+  * [Performance optimization](Android/perf.md)
+  * <font color=blue>frame</font>
+  * [EventBus](Android/eb.md)
+  * [RxJava](Android/rxjava.md)
+  * [Tencent Bugly](Android/bugly.md)
+  * [Ali OSS](Android/oss.md)
+  * [Glide](Android/glide.md)
+  * [ZXing](Android/zxing.md)
+  * <font color=blue>Android Advanced</font>
+  * [Java Virtual Machine Foundation](Android/jvm.md)
+  * [Android Virtual Machine Foundation](Android/art.md)
+  * [Android Hotfix](Android/hotfix.md)
+  * [Module development](Android/mod.md)
+  * [Android AIDL development](Android/aidl.md)
+  * [Android NDK development](Android/ndk.md)
+  * [obfuscation, encryption and decompilation](Android/proguard.md)
+  * [AOSP development](Android/aosp.md)
+* <font color=red>**Kotlin Advanced**</font>
+  * [Functional Programming](Kotlin/func.md)
+  * [Lazy initialization, extension functions and sealed classes](Kotlin/late.md)
+  * [Generic and Delegate](Kotlin/gen.md)
+  * [Kotlin Coroutines: Thread Basics](Kotlin/coroutine.md)
+  * [Kotlin Coroutines: Coroutine Basics](Kotlin/coroutine2.md)
+  * [Kotlin Coroutine: Advanced Coroutine](Kotlin/coroutine3.md)
+* <font color=red>**Getting started with MySQL**</font>
+  * [Basic Command](MySQL/basicom.md)
+  * [Operation of table](MySQL/tables.md)
+  * [Basic query command](MySQL/query.md)
+  * [operator](MySQL/opr.md)
+  * [aggregation and sorting](MySQL/agg&sort.md)
+  * [Data update](MySQL/dataud.md)
+  * [Complex query](MySQL/cplxq.md)
+  * [function](MySQL/func.md)
+  * [predicate](MySQL/pred.md)
+  * [CASE expression](MySQL/case.md)
+  * [Set operation](MySQL/set.md)
+  * [window function](MySQL/window.md)
+* <font color=red>**design mode**</font>
+  * [Design Pattern Overview](DesignPattern/Overview.md)
+  * [Creative Design Patterns](DesignPattern/Creative Design Patterns.md)
+  * [Structural Design Patterns](DesignPattern/Structural Design Patterns.md)
+  * [Behavioral Design Patterns](DesignPattern/Behavioral Design Patterns.md)
+  * [Summary of "The Way to Clean Code"] (DesignPattern/Summary of the Way to Clean Code.md)
+* <font color=red>**Introduction to C++**</font>
+  * [Start with Hello World](/CPP/helloworld.md)
+  * [function](/CPP/function.md)
+  * [complex type](/CPP/complex.md)
+  * [pointer](xxx.md)
+  * [Memory Model and Namespace](xxx.md)
+  * [objects and classes](xxx.md)
+  * [Friends, exceptions and others](xxx.md)
+  * [input, output and files](xxx.md)
+* <font color=red>**Data Structure and Algorithm**</font>
+  * <font color=blue>Data structure part</font>
+  * [Data Structure Overview](/DataStructure/intro.md)
+  * [table](DataStructure/list.md)
+  * [Stack and Queue](DataStructure/stack.md)
+  * [string](DataStructure/string.md)
+  * [tree](DataStructure/tree.md)
+  * [graph](DataStructure/graph.md)
+  * [hash/hash](DataStructure/hash.md)
+  * <font color=blue>Algorithm part</font>
+  * [Overview](Algorithm/introduction.md)
+  * <font color=orange>Sort algorithm</font>
+  * [Bubble Sort](xxx.md)
+  * [Select Sort](xxx.md)
+  * [Insertion Sort](xxx.md)
+  * [Hill Sort](xxx.md)
+  * [Merge Sort](xxx.md)
+  * [Quick Sort](xxx.md)
+  * [Heap Sort](xxx.md)
+  * [Count Sort](xxx.md)
+  * [Bucket Sort](xxx.md)
+  * [Radix Sort](xxx.md)
+  * <font color=orange>Search algorithm</font>
+  * [Search order](xxx.md)
+  * [Binary search](xxx.md)
+  * [Red-Black Tree](xxx.md)
+  * [Hashtable/Hashtable](xxx.md)
+  * <font color=orange>Graph algorithm</font>
+  * [Depth First Search](xxx.md)
+  * [Breadth First Search](xxx.md)
+  * [Minimum Spanning Tree](xxx.md)
+  * [shortest path](xxx.md)
+  * <font color=orange>String algorithm</font>
+  * [string sort](xxx.md)
+  * [Substring search](xxx.md)
+  * [regular expression](Android/regx.md)
+* <font color=red>**Computer Network**</font>
+  * [Overview](ComputerNetwork/Chapter_1_Overview.md)
+  * [Physical Layer](ComputerNetwork/Chapter_2_Physical Layer.md)
+  * [Data Link Layer](ComputerNetwork/Chapter_3_Data Link Layer.md)
+  * [Network layer](ComputerNetwork/Chapter_4_Network layer.md)
+  * [Transport Layer](ComputerNetwork/Chapter_5_Transport Layer.md)
+  * [Application Layer](ComputerNetwork/Chapter_6_Application Layer.md)
+  * [Network Security](ComputerNetwork/Chapter_7_Network Security.md)
+* <font color=red>**OS**</font>
+  * [OS Overview](OperatingSystem/intro.md)
+* <font color=red>**Fundamentals of Mathematics**</font>
+  * <font color=blue>Calculus</font>
+  * [Function, Image and Line](xxx.md)
+  * [limit](xxx.md)
+  * [Continuous](xxx.md)
+  * [Derivative](xxx.md)
+  * [Points](xxx.md)
+  * <font color=blue>Linear Algebra</font>
+  * <font color=blue>Probability Theory</font>
+  * <font color=blue>Discrete Math</font>
+  * [Basic part](Math/discrete/basic.md)
